@@ -1,6 +1,6 @@
 # C-Programing-Questions
 ----------------------------------------------------------------
-![C Programming Language](https://images.saymedia-content.com/.image/t_share/MTczODk1MzE5NTg1NTY0NTEz/how-to-work-with-multidimensional-array-in-c-programming.png)
+![C Programming Language](https://www.canva.com/design/DAFpvDHD7t4/XE6_rz5Up6-XldKt2lb68A/view?utm_content=DAFpvDHD7t4&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 
 - [1. Write a C Program calculate the Sum of Two Numbers
 ](https://github.com/codedevmastery/C-Programs/blob/main/1.%20SumOfNumbers.c)
